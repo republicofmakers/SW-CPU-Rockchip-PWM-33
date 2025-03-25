@@ -1,1 +1,2 @@
-# SW-CPU-Rockchip-PMW-33
+# SW-CPU-Rockchip-PWM-33
+
