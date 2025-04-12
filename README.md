@@ -4,6 +4,8 @@ Here is PWM test with Radxa CM5. I test 2 channels and since its 1.8V, i didnt u
 
 I slowly turned on (in 3 seconds) and slowly turned off (in 3 seconds) with PWM.
 
+(In photos not clearly seen , but it works quite nicely)
+
 ## 1. Connect Leds to your PWM Pins
 
 <img width="533" alt="cm5 pwm" src="https://github.com/user-attachments/assets/9a53c55e-4e30-4750-8aa0-3ad17c787346" />
