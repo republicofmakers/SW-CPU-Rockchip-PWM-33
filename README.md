@@ -10,6 +10,10 @@ I slowly turned on (in 3 seconds) and slowly turned off (in 3 seconds) with PWM.
 
 ## 2. Enjoy your device
 
+<img width="856" alt="pwm python code" src="https://github.com/user-attachments/assets/a2bf09d6-556f-4443-807d-cc5e40fdd81c" />
+
+(Run your code)
+
 <img width="788" alt="led - 0" src="https://github.com/user-attachments/assets/9543e1fe-791b-458e-8056-97111de10090" />
 
 (led picture 1)
